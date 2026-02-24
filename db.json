@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jugador Uno",
+      "cards": [1, 3, 5]
+    },
+    {
+      "id": 2,
+      "name": "Jugador Dos",
+      "cards": [2, 4, 6]
+    }
+  ]
+}
